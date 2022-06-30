@@ -1,0 +1,25 @@
+now learning array iteration
+
+1 --> we will learn "What is Regular Expression"
+
+
+// ****88888888888
+JavaScript String match()
+The match() method searches a string for a match against a regular expression, and returns the matches, as an Array object.
+
+Example 1 ->
+Search a string for "ain":
+
+let text = "The rain in SPAIN stays mainly in the plain";
+text.match(/ain/g);
+
+/// **********
+
+JavaScript String includes()
+The includes() method returns true if a string contains a specified value.
+
+Example
+let text = "Hello world, welcome to the universe.";
+text.includes("world");
+
+// *******************
